@@ -1,0 +1,15 @@
+// Owner - Sugnaykumar Patel.
+// Type - Game.
+// Language Used - C++.
+
+
+//This game is for developed too show the skill set in OOPs concept in c++.
+
+
+//Future upgrade goals:-
+//1. Engine 2 which would learn the game and won't let you win the game.
+//2. More interactive to the user. 
+//3. Hint for the player which would be based on ai learning game and giving the hint to play the game.
+
+
+//To run the game - g++ *.cpp -o run and then compile the program.
